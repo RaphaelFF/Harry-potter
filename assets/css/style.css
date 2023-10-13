@@ -77,4 +77,30 @@ header{
     font-family: Rum Raisin;
 }
 
+.rodape {
+    height: 60px;
+    background-color: #015f73;
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+}
+
+.producao {
+    color: #fff;
+    margin-left: 35%;
+}
+
+.producao h1 {
+    font-family: roboto;
+}
+
+.rede-sociais{
+    display: flex;
+    gap: 10px;
+    margin-left: 10px;
+}
+
+.rede-sociais a{
+}
+
 

@@ -26,6 +26,7 @@ body{
     font-family:"Rum Raisin";
     font-size: 48px;
     color: #015F73;
+    
 }
 
 .cabeçalho-link{
