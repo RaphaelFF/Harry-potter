@@ -2,20 +2,19 @@
   💻<br>Portfólio - Raphael França
 </h1>
 
-![Resultado final do projeto](portifolio.png)
+![Resultado final do projeto](potter.png)
 
 <h4 align="center"><a href="https://raphaelff.github.io/PORTFOLIO/">Clique para visitar o projeto</a></h4>
 
 ## 📚 Seções
 
-O site é composto por seis seções:
+O site é composto por cinco seções:
 
-- **Home:** Nele temos uma breve apresentação;
-- **Quem sou:** Nessa seção tenho uma descrição dizendo um pouco sobre quem sou;
-- **Experiências:** Abordo algumas empresas da qual prestei meus serviços na área de desenvolvimento e design;
-- **Projetos:** Apresenta alguns projetos desenvolvidos e com link direto para os respectivos códigos no GitHub;
-- **Serviços:** Exibe através de cards os diferentes serviços em que possuo conhecimentos;
-- **Conhecimentos:** Nele apresentamos meus conhecimentos em algumas linguagens como o foco no front-end;
+- **Contato:** apenas inlustrativo;
+- **Sobre:** A ideia nessa seção é fazer uma descrição dizendo um pouco sobre o filme;
+- **Suporte:** Apenas inlustrativo;
+- **Assistir:** Apenas inlustrativo;
+
 
 ---
 
