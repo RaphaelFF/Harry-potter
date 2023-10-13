@@ -10,10 +10,10 @@
 
 O site é composto por cinco seções:
 
-- **Contato:**Ilustrativo;
-- **Sobre:**Ilustrativo;;
-- **Suporte:**Ilustrativo;;
-- **Assistir:**Ilustrativo;;
+- **Contato:** Ilustrativo;
+- **Sobre:** Ilustrativo;;
+- **Suporte:** Ilustrativo;;
+- **Assistir:** Ilustrativo;;
 
 
 ---
