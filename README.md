@@ -10,10 +10,10 @@
 
 O site é composto por cinco seções:
 
-- **Contato:** apenas inlustrativo;
-- **Sobre:** A ideia nessa seção é fazer uma descrição dizendo um pouco sobre o filme;
-- **Suporte:** Apenas inlustrativo;
-- **Assistir:** Apenas inlustrativo;
+- **Contato:**Ilustrativo;
+- **Sobre:**Ilustrativo;;
+- **Suporte:**Ilustrativo;;
+- **Assistir:**Ilustrativo;;
 
 
 ---
