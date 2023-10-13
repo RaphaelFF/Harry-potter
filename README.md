@@ -23,11 +23,11 @@ O site é composto por cinco seções:
 Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 
 - HTML - componentes;
-   *Header;
-   *Div;
-   *Class;
-   *Links;
-   *Footer;
+   - Header;
+   - Div;
+   - Class;
+   - Links;
+   - Footer;
   
 - CSS - componentes;
    Imagem como background;
