@@ -23,17 +23,17 @@ O site é composto por cinco seções:
 Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 
 - HTML - componentes;
-- header;
-- div;
-- class;
-- links;
-- footer;
+   Header;
+   Div;
+   Class;
+   Links;
+   Footer;
   
 - CSS - componentes;
-- adicionar imagem como background;
-- importar fontes;
-- propriedade display flex;
-- efeito com o hover;
+   Imagem como background;
+   Fontes;
+   Alinhamento com o display flex;
+   Efeito com o hover;
 
 
 ---
