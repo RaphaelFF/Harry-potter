@@ -1,4 +1,4 @@
- <h1 align="center">
+ <h1 align="center" color: black>
   <a href="https://benevolent-frangipane-abe99f.netlify.app/">
   💻<br>Portfólio - Raphael França
 </h1>
