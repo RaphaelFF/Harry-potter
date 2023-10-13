@@ -30,10 +30,10 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
    - Footer;
   
 - CSS - componentes;
-   Imagem como background;
-   Fontes;
-   Alinhamento com o display flex;
-   Efeito com o hover;
+  -  Imagem como background;
+   - Fontes;
+   - Alinhamento com o display flex;
+   - Efeito com o hover;
 
 
 ---
