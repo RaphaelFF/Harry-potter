@@ -27,6 +27,11 @@ header{
     font-size: 48px;
     letter-spacing: 3px;
 }
+.cabeçalho-logo h1:hover{
+    cursor: pointer;
+    color:#e69b0d; 
+}
+
 
 .links {
     display: flex;
@@ -37,12 +42,23 @@ header{
     color: #fff;
     font-size: 25px;
 }
+
+.links a:hover{
+    cursor: pointer;
+    color:#e69b0d;
+}
 .links a span{
     background-color: red;
     padding-left: 20px;
     padding-right: 20px;
     border-radius: 10%;
     font-weight: bold;
+}
+
+.links a span:hover{
+    cursor: pointer;
+    font-size: 28px;
+    background-color: #fff;
 }
 
 .conteudo{
@@ -77,6 +93,12 @@ header{
     font-family: Rum Raisin;
 }
 
+.conteudo button:hover{
+    cursor: pointer;
+    background-color: #fff;
+    color: #015f73;
+}
+
 .rodape {
     height: 60px;
     background-color: #015f73;
@@ -100,7 +122,5 @@ header{
     margin-left: 10px;
 }
 
-.rede-sociais a{
-}
 
 
