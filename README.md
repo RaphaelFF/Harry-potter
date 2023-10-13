@@ -4,7 +4,7 @@
 <h4 align="center"><a href="https://benevolent-frangipane-abe99f.netlify.app/">Clique para visitar o projeto</a></h4>
 ![Resultado final do projeto](potter.png)
 
-<h4 align="center"><a href="https://benevolent-frangipane-abe99f.netlify.app/">Clique para visitar o projeto</a></h4>
+
 
 ## 📚 Seções
 
