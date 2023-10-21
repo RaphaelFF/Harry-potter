@@ -2,34 +2,36 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,700;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Saira:ital,wght@0,100;1,100&display=swap');
 
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
 }
 
-body{
+body {
     background-image: url('/assets/img/harry.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-header{
+header {
     display: flex;
     justify-content: space-around;
     align-items: center;
     height: 15vh;
 }
-.cabeçalho-logo h1{
+
+.cabeçalho-logo h1 {
     font-family: "Rum Raisin";
     color: #015f73;
     font-size: 48px;
     letter-spacing: 3px;
 }
-.cabeçalho-logo h1:hover{
+
+.cabeçalho-logo h1:hover {
     cursor: pointer;
-    color:#e69b0d; 
+    color: #e69b0d;
 }
 
 
@@ -37,17 +39,19 @@ header{
     display: flex;
     gap: 60px;
 }
-.links a{
+
+.links a {
     font-family: "roboto";
     color: #fff;
     font-size: 25px;
 }
 
-.links a:hover{
+.links a:hover {
     cursor: pointer;
-    color:#e69b0d;
+    color: #e69b0d;
 }
-.links a span{
+
+.links a span {
     background-color: red;
     padding-left: 20px;
     padding-right: 20px;
@@ -55,33 +59,35 @@ header{
     font-weight: bold;
 }
 
-.links a span:hover{
+.links a span:hover {
     cursor: pointer;
     font-size: 28px;
     background-color: #fff;
 }
 
-.conteudo{
+.conteudo {
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 10vh;
     width: 50%;
 }
-.conteudo h1{
+
+.conteudo h1 {
     color: #fbf2f2;
     font-size: 70px;
     font-family: Rum Raisin;
 }
 
-.conteudo p{
+.conteudo p {
     color: #fcfcfc;
     letter-spacing: 1px;
     text-align: center;
     line-height: 25px;
-        
+
 }
-.conteudo button{
+
+.conteudo button {
     margin-top: 20px;
     padding: 15px;
     width: 150px;
@@ -93,7 +99,7 @@ header{
     font-family: Rum Raisin;
 }
 
-.conteudo button:hover{
+.conteudo button:hover {
     cursor: pointer;
     background-color: #fff;
     color: #015f73;
@@ -116,11 +122,8 @@ header{
     font-family: roboto;
 }
 
-.rede-sociais{
+.rede-sociais {
     display: flex;
     gap: 10px;
     margin-left: 10px;
 }
-
-
-
